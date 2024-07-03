@@ -1,5 +1,4 @@
-#questao05
-
+'''Desenvolva um programa que pergunte a distância até um planeta em quilômetros e a velocidade da nave em km/h. Informe quantos dias e quantas horas a viagem levará, considerando 24 horas por dia.'''
 # kmateM recebe um valor decimal
 kmateM = float(input("Quantos quilometros (km), daqui até marte? ").strip())
 # kmdanave  recebe um valor decimal

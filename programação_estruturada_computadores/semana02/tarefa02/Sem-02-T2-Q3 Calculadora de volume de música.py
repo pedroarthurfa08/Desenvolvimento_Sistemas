@@ -1,5 +1,5 @@
-#questao03
 
+'''Desenvolva um programa que peça ao usuário o nível de volume atual e o nível de volume desejado de seu aparelho de som. Calcule e mostre a diferença de volume necessária.'''
 # nt recebe o valor um valor inteiro 
 nt = int(input("Diga o nível de volume atual do seu aparelho:").strip())
 # nd recebe o valor um valor inteiro 

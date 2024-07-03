@@ -1,4 +1,3 @@
-#questao01
 print("Alô, mundo!")
 print("ALO MUNDO")
 print("alô, mundo.")
