@@ -1,6 +1,10 @@
 #questao04
+
+# numeromiau recebe o valor inteiro 
 numeromiau = int(input("Insira um número:"))
-m="miau" * numeromiau
+# m recebe o valor de numeromiau e multiplica a string "miau"
+m = "miau" * numeromiau
+#imprimi o valor de m
 print(m)
 print('''
                                
